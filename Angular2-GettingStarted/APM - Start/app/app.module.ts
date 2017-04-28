@@ -9,7 +9,7 @@ import { RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
 import { ProductFilterPipe } from './products/product-filter.pipe';
 import { StarComponent } from './shared/star.component';
-import {WelcomeComponent} from './home/welcome.component';
+import { WelcomeComponent } from './home/welcome.component';
 
 @NgModule({
   imports: [
